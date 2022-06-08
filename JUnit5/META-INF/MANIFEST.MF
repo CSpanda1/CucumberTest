@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Bundle-ManifestVersion: 2
-Bundle-Name: JUnit5
-Bundle-SymbolicName: JUnit5
-Bundle-Version: 1.0.0.qualifier
-Bundle-RequiredExecutionEnvironment: JavaSE-17
-Automatic-Module-Name: JUnit5
-Export-Package: com.hcl
